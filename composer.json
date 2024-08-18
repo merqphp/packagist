@@ -1,0 +1,18 @@
+{
+    "name": "merq/packagist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Merq\\Packagist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter Stovka",
+            "email": "peter@merq.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
